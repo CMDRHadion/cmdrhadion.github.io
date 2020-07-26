@@ -2982,9 +2982,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			header br {
-				display: none;
-			}
+			
 
 		}
 
